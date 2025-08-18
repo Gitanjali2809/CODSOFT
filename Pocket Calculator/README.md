@@ -23,7 +23,14 @@ This project helped me practice:
 ---
 
 
+## 🔗 Live Demo
+[Click here to view live demo](https://68a33e280718ca3be0a07cd2--loquacious-mochi-c9fabc.netlify.app/)  
+
+---
+
+
 ## ✨ Author
 **Gitanjali Singh**  
+
 
 
