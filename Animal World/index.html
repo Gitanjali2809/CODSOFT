@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Animal World</title>
+
+<link rel="stylesheet" href="style.css">
+
+<!-- Preload hero image -->
+<link rel="preload" as="image" href="https://images.unsplash.com/photo-1546182990-dffeafbe841d">
+</head>
+<body>
+
+<!-- Header -->
+<header>
+  <h1>Animal World</h1>
+  <nav>
+    <a href="#">Home</a>
+    <a href="#features">Features</a>
+    <a href="#contact">Contact</a>
+  </nav>
+</header>
+
+<!-- Hero Section -->
+<section class="hero">
+  <div>
+    <h2>Welcome to the Animal World</h2>
+    <p>Discover, Learn, and Protect Wildlife Around the Globe</p>
+    <button id="exploreBtn">Explore Now</button>
+  </div>
+</section>
+
+<!-- Features Section -->
+
+<section id="features" class="features">
+  <div class="feature">
+    <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee" alt="Lion" loading="lazy">
+    <h3> Wildlife Conservation</h3>
+    <p>
+      Learn how we protect endangered species like lions, tigers, and elephants to ensure their survival.
+      <span class="more-text">Our conservation programs focus on anti-poaching initiatives, habitat restoration, and educating communities about coexisting with wildlife. By supporting these efforts, we build a sustainable world where nature and humans thrive together.</span>
+    </p>
+    <button class="read-more-btn">Read More</button>
+  </div>
+
+  <div class="feature">
+    <img src="https://images.unsplash.com/photo-1508672019048-805c876b67e2" alt="Bird" loading="lazy">
+    <h3> Bird Watching</h3>
+    <p>
+      Discover exotic birds, explore their habitats, and understand migration.
+      <span class="more-text">Birds play a crucial role in pollination, seed dispersal, and maintaining ecological balance. Guided tours and resources help you appreciate their beauty and learn to protect their environments.</span>
+    </p>
+    <button class="read-more-btn">Read More</button>
+  </div>
+
+  <div class="feature">
+    <img src="https://images.unsplash.com/photo-1500534623283-312aade485b7" alt="Elephants" loading="lazy">
+    <h3> Animal Awareness</h3>
+    <p>
+      Raise awareness about animals in our ecosystem.
+      <span class="more-text">Animals contribute to biodiversity, cultural identity, and the economy. Through campaigns, workshops, and educational content, we create empathy and responsibility towards the creatures we share our planet with.</span>
+    </p>
+    <button class="read-more-btn">Read More</button>
+  </div>
+  
+</section>           
+
+
+<!-- Contact Section -->
+<section id="contact" class="contact">
+  <h2>Contact Us</h2>
+  <form>
+    <input type="text" placeholder="Your Name" required>
+    <input type="email" placeholder="Your Email" required>
+    <textarea rows="5" placeholder="Your Message" required></textarea>
+    <button type="submit">Send Message</button>
+  </form>
+</section>
+
+<!-- Footer -->
+<footer>
+  <p>&copy; 2025 Animal World | All Rights Reserved</p>
+</footer>
+
+<!-- Modal -->
+<div id="exploreModal" class="modal">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <h2>Explore Wildlife!</h2>
+    <p>Watch this amazing wildlife video and learn fun facts about animals.</p>
+    <div class="video-container">
+      <img id="videoThumb" src="https://img.youtube.com/vi/rfMTCsinBDc/hqdefault.jpg" alt="Wildlife Video Thumbnail" style="width:100%; cursor:pointer; border-radius:12px;">
+      <button id="playVideo">▶</button>
+    </div>
+  </div>
+</div>
+
+
+<script src="script.js"></script>
+</body>
+</html>
