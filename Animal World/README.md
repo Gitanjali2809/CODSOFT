@@ -27,7 +27,7 @@ A responsive and interactive landing page dedicated to wildlife education, conse
 
 - **HTML5:** Semantic structure, preloading, and lazy loading attributes.
 - **CSS3:** Flexbox, Grid, animations, transitions, gradients, and media queries for responsiveness.
-- **JavaScript (Vanilla JS):** DOM manipulation, event handling, and dynamic content creation (iframe injection) without any external libraries.
+- **JavaScript:** DOM manipulation, event handling, and dynamic content creation (iframe injection) without any external libraries.
 
   ---
 
@@ -39,10 +39,10 @@ A responsive and interactive landing page dedicated to wildlife education, conse
 
 ---
 
-## 📸 Screenshot
+## 📸 Screenshots
 
 ![Home](images/Home.png)  
-!Feature Section](images/Feature.png)  
+![Feature Section](images/Feature.png)  
 ![Contact Section ](images/Contact.png)  
 
 
