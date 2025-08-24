@@ -1,14 +1,15 @@
-# Animal World 
----
-A responsive and interactive landing page dedicated to wildlife education, conservation awareness, and animal facts. Built with pure HTML, CSS, and JavaScript.
+# Animal World 🐻🐨 
 
 ---
+
+A responsive and interactive landing page dedicated to wildlife education, conservation awareness, and animal facts. Built with pure HTML, CSS, and JavaScript.
+
 
 ## Live Demo
 
 [View the Live Project] (https://git-animal-world.netlify.app/)
 
----
+
 ## Features
 
 - **Fully Responsive Design:** Adapts seamlessly to desktop, tablet, and mobile screens.
@@ -22,14 +23,12 @@ A responsive and interactive landing page dedicated to wildlife education, conse
 - **Semantic HTML5:** Uses modern HTML5 tags for better accessibility and SEO.
 - **Smooth Animations:** Includes hover effects and transitions for a polished user experience.
 
----
 ## Technologies Used
 
 - **HTML5:** Semantic structure, preloading, and lazy loading attributes.
 - **CSS3:** Flexbox, Grid, animations, transitions, gradients, and media queries for responsiveness.
 - **JavaScript:** DOM manipulation, event handling, and dynamic content creation (iframe injection) without any external libraries.
 
-  ---
 
 ### Key Concepts Demonstrated
 - **DOM Manipulation:** Selecting elements, changing styles, and toggling content.
@@ -37,7 +36,6 @@ A responsive and interactive landing page dedicated to wildlife education, conse
 - **CSS Architecture:** Box-model management, positioning (absolute, fixed, relative), and responsive breakpoints.
 - **Web Performance:** Implementation of lazy loading and resource preloading strategies.
 
----
 
 ## 📸 Screenshots
 
