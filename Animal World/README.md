@@ -1,4 +1,4 @@
-# Animal World Website 🌍🐘
+# Animal World 
 ---
 A responsive and interactive landing page dedicated to wildlife education, conservation awareness, and animal facts. Built with pure HTML, CSS, and JavaScript.
 
