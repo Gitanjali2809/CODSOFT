@@ -1,6 +1,6 @@
-# 🚀 Web Development Projects – CodeSoft Internship Tasks  
+# 🚀 Web Development Projects – CodeSoft Internship 
 
-During my 1-month internship/task program with **CodeSoft**, I built three frontend projects.  
+During my 1-month internship program with **CodeSoft**, I built three frontend projects.  
 
 These projects helped me strengthen my skills in **HTML, CSS, and JavaScript**,  
 with hands-on experience in **responsive design and interactivity**.  
@@ -32,7 +32,7 @@ A modern, responsive **personal portfolio** showcasing my **skills, education, a
 
 All three projects were built using the same core technologies:  
 
-- **HTML5** → Semantic structure, accessibility, SEO best practices  
+- **HTML5** → Semantic structure, accessibility  
 - **CSS3** → Flexbox, Grid, dark theme variables, animations, responsiveness  
 - **JavaScript (ES6)** → DOM manipulation, event handling, dynamic content  
 
@@ -44,7 +44,7 @@ All three projects were built using the same core technologies:
 - **Interactivity** – Buttons, modals, and event-driven user interactions.  
 - **Performance Optimizations** – Lazy loading images, preloading key resources.  
 - **Modern Layouts** – Clean UI with Flexbox and Grid.  
-- **Semantic HTML** – Structured content for accessibility and SEO.  
+- **Semantic HTML** – Structured content for accessibility.  
 - **Deployment** – Hosted all projects live using **Netlify**.  
 
 ---
