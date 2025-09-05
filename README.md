@@ -24,7 +24,7 @@ A responsive web-based calculator that processes **arithmetic expressions** with
 
 ### 💼 Portfolio Website  
 A modern, responsive **personal portfolio** showcasing my **skills, education, and projects**.  
-🔗 [Live Demo](https://git-portfolio.netlify.app/) *(replace with your actual hosted link)*  
+🔗 [Live Demo](https://portfoilo-dev-102.netlify.app/)
 
 ---
 
