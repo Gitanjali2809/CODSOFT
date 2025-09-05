@@ -26,16 +26,6 @@ This project showcases my **skills, education, and projects** in a clean and pro
 
 ---
 
-## 📂 Project Structure  
-portfolio/
-│── index.html # Main HTML file
-│── style.css # Stylesheet
-│── images/ # Project images (Netflix clone, calculator, animal world, etc.)
-│── cv__git.pdf # Resume file
-
-
----
-
 ## 🔗 Live Demo  
   
  [Portfolio Demo] (https://portfoilo-dev-102.netlify.app/)
