@@ -11,7 +11,7 @@ All three are **hosted live on Netlify**.
 ## 📂 Projects  
 
 ### 🌍 Animal World 🐻🐨  
-A responsive and interactive landing page dedicated to **wildlife education, conservation awareness, and animal facts**.  
+A responsive and interactive landing page dedicated to **wildlife education, conservation awareness**.  
 🔗 [Live Demo](https://git-animal-world.netlify.app/)  
 
 ---
